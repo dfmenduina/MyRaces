@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyRaces</string>
+    <string name="lbl_cancela">Cancelar</string>
+    <string name="lbl_inserta">Insertar</string>
+    <string name="fecha">Fecha</string>
+    <string name="nombre">Nombre</string>
+    <string name="hora_inicio">Hora inicio</string>
+    <string name="distancia">Distancia(m)</string>
+    <string name="insertar">Insertar Carrera</string>
+    <string name="superficie">Superficie</string>
+</resources>
